@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Layout from "./Components/Layout";
-import AuthLayout from "./Components/AuthLayout";
-import Login from "./Pages/Login";
-import Weeks from "./Pages/Weeks";
-import Home from "./Pages/Home";
+import Layout from "./components/Layout";
+import AuthLayout from "./components/Authlayout";
+import Login from "./pages/Login";
+import Weeks from "./pages/Weeks";
+import Home from "./pages/Home";
 
 function App() {
   return (
