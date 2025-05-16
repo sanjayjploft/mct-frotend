@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-// import Layout from "./components/Layout";
-import AuthLayout from "./components/Authlayout";
+import Layout from "./components/layout";
+import AuthLayout from "./components/authLayout";
 import Login from "./pages/Login";
 import Weeks from "./pages/Weeks";
 import Home from "./pages/Home";
